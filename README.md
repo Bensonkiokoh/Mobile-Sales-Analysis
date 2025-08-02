@@ -9,6 +9,9 @@
 
 ### Project Overview
 This project explores mobile phone sales data from a major retailer to uncover patterns in product performance, customer behavior, and regional trends. The dataset includes transaction records, customer demographics, product details, and sales channels across multiple countries.
+
+<img width="878" height="726" alt="Mobile Sales Dashboard" src="https://github.com/user-attachments/assets/f8804843-0322-40e9-b2e9-b0d7e0866740" />
+
 Using Power BI & Power Query the analysis focuses on answering key business questions such as:
 
 -	Which mobile brands and models are the top sellers overall and in specific countries or cities?
