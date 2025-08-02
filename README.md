@@ -5,7 +5,7 @@
 - [Data Source](#data-source)
 - [Dataset Overview](#dataset-overview)
 - [Tools Used](#tools-used)
-- [Data Cleaning & Preparation](#data-cleaning-&-preparation)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 
 ### Project Overview
 This project explores mobile phone sales data from a major retailer to uncover patterns in product performance, customer behavior, and regional trends. The dataset includes transaction records, customer demographics, product details, and sales channels across multiple countries.
